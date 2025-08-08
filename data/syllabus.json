@@ -1,0 +1,270 @@
+```json
+{
+  "classes": [
+    {
+      "class": 1,
+      "subjects": [
+        {
+          "name": "Mathematics",
+          "chapters": [
+            { "chapter_number": 1, "title": "Numbers 1 to 10" },
+            { "chapter_number": 2, "title": "Shapes Around Us" }
+          ]
+        },
+        {
+          "name": "EVS",
+          "chapters": [
+            { "chapter_number": 1, "title": "My Family" },
+            { "chapter_number": 2, "title": "Good Habits" }
+          ]
+        },
+        {
+          "name": "English",
+          "chapters": [
+            { "chapter_number": 1, "title": "Alphabets" },
+            { "chapter_number": 2, "title": "My First Words" }
+          ]
+        }
+      ]
+    },
+    {
+      "class": 2,
+      "subjects": [
+        {
+          "name": "Mathematics",
+          "chapters": [
+            { "chapter_number": 1, "title": "Numbers up to 100" },
+            { "chapter_number": 2, "title": "Addition and Subtraction" }
+          ]
+        },
+        {
+          "name": "EVS",
+          "chapters": [
+            { "chapter_number": 1, "title": "Living and Non-living" },
+            { "chapter_number": 2, "title": "Water and Air" }
+          ]
+        },
+        {
+          "name": "English",
+          "chapters": [
+            { "chapter_number": 1, "title": "Revision after vacation" },
+            { "chapter_number": 2, "title": "Short Stories" }
+          ]
+        }
+      ]
+    },
+    {
+      "class": 3,
+      "subjects": [
+        {
+          "name": "Mathematics",
+          "chapters": [
+            { "chapter_number": 1, "title": "Place Value" },
+            { "chapter_number": 2, "title": "Multiplication Facts" }
+          ]
+        },
+        {
+          "name": "EVS",
+          "chapters": [
+            { "chapter_number": 1, "title": "Our Food" },
+            { "chapter_number": 2, "title": "Me and My Body" }
+          ]
+        },
+        {
+          "name": "English",
+          "chapters": [
+            { "chapter_number": 1, "title": "Zebra Story" },
+            { "chapter_number": 2, "title": "Fun with Animals" }
+          ]
+        }
+      ]
+    },
+    {
+      "class": 4,
+      "subjects": [
+        {
+          "name": "Mathematics",
+          "chapters": [
+            { "chapter_number": 1, "title": "Factors and Multiples" },
+            { "chapter_number": 2, "title": "Simple Fractions" }
+          ]
+        },
+        {
+          "name": "Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "Plants: Growing Roots" },
+            { "chapter_number": 2, "title": "Animal Habitats" }
+          ]
+        },
+        {
+          "name": "English",
+          "chapters": [
+            { "chapter_number": 1, "title": "The Blue Umbrella" },
+            { "chapter_number": 2, "title": "A Brave Day" }
+          ]
+        }
+      ]
+    },
+    {
+      "class": 5,
+      "subjects": [
+        {
+          "name": "Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "Food: Where Does it Come From?" },
+            { "chapter_number": 2, "title": "Components of Food" }
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "chapters": [
+            { "chapter_number": 1, "title": "Large Numbers" },
+            { "chapter_number": 2, "title": "Fractions and Decimals" }
+          ]
+        },
+        {
+          "name": "Social Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "History: Early Humans" },
+            { "chapter_number": 2, "title": "Geography: Maps" }
+          ]
+        }
+      ]
+    }
+  ]
+}
+,
+    {
+      "class": 6,
+      "subjects": [
+        {
+          "name": "Mathematics",
+          "chapters": [
+            { "chapter_number": 1, "title": "Knowing Our Numbers" },
+            { "chapter_number": 2, "title": "Whole Numbers" }
+          ]
+        },
+        {
+          "name": "Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "Food: Components and Sources" },
+            { "chapter_number": 2, "title": "Components of Food" }
+          ]
+        },
+        {
+          "name": "Social Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "India and its Neighbours" },
+            { "chapter_number": 2, "title": "What, Where, How and When?" }
+          ]
+        }
+      ]
+    },
+    {
+      "class": 7,
+      "subjects": [
+        {
+          "name": "Mathematics",
+          "chapters": [
+            { "chapter_number": 1, "title": "Integers" },
+            { "chapter_number": 2, "title": "Fractions" }
+          ]
+        },
+        {
+          "name": "Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "Nutrition in Plants and Animals" },
+            { "chapter_number": 2, "title": "Heat" }
+          ]
+        },
+        {
+          "name": "Social Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "Environment" },
+            { "chapter_number": 2, "title": "India–Size and Location" }
+          ]
+        }
+      ]
+    }
+,
+    {
+      "class": 8,
+      "subjects": [
+        {
+          "name": "Mathematics",
+          "chapters": [
+            { "chapter_number": 1, "title": "Rational Numbers" },
+            { "chapter_number": 2, "title": "Linear Equations in One Variable" }
+          ]
+        },
+        {
+          "name": "Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "Crop Production and Management" },
+            { "chapter_number": 2, "title": "Microorganisms: Friend and Foe" }
+          ]
+        },
+        {
+          "name": "Social Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "Resources" },
+            { "chapter_number": 2, "title": "Land, Soil, Water, Natural Vegetation, and Wildlife" }
+          ]
+        }
+      ]
+    },
+    {
+      "class": 9,
+      "subjects": [
+        {
+          "name": "Mathematics",
+          "chapters": [
+            { "chapter_number": 1, "title": "Number Systems" },
+            { "chapter_number": 2, "title": "Polynomials" }
+          ]
+        },
+        {
+          "name": "Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "Matter in Our Surroundings" },
+            { "chapter_number": 2, "title": "Is Matter Around Us Pure?" }
+          ]
+        },
+        {
+          "name": "Social Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "India—Size and Location" },
+            { "chapter_number": 2, "title": "Physical Features of India" }
+          ]
+        }
+      ]
+    }
+,
+    {
+      "class": 10,
+      "subjects": [
+        {
+          "name": "Mathematics",
+          "chapters": [
+            { "chapter_number": 1, "title": "Real Numbers" },
+            { "chapter_number": 2, "title": "Polynomials" }
+          ]
+        },
+        {
+          "name": "Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "Chemical Reactions and Equations" },
+            { "chapter_number": 2, "title": "Acids, Bases, and Salts" }
+          ]
+        },
+        {
+          "name": "Social Science",
+          "chapters": [
+            { "chapter_number": 1, "title": "India and the Contemporary World – I" },
+            { "chapter_number": 2, "title": "Contemporary India – I" }
+          ]
+        }
+      ]Added syllabus.json in data folder
+    }
+  ]
+}
